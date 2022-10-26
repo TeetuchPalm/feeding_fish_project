@@ -1,0 +1,16 @@
+palmdfdffd,Hard, 100, 51, 9
+dsfdsf,Easy, 20, 70, 9, 8
+hjhjhj,VeryEasy, 89, 8, 9
+dfchjasd,Easy, 20, 9, 9
+jgnfn,Hard, 15, 10, 9
+mfkkf,Easy, 24, 5, 11
+fdffd,Hard, 22, 51, 90
+asd,Hard, 80, 5, 9
+df,Hard, 65, 5, 9
+ggg,VeryEasy, 82, 5, 9
+ddd,Easy, 71, 10, 9
+ggg,VeryHard, 95, 5, 9
+New Player,Normal, 20, 5, 2
+New Player,VeryEasy, 62, 20, 0
+New Player,VeryEasy, 31, 15, 15
+New Player,Easy, 79, 38, 28
